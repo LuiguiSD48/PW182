@@ -13,6 +13,7 @@
     <body>
 
 
+    
     @yield('contenido')
 
     </body>
