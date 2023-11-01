@@ -1,0 +1,40 @@
+digraph {
+	"" -> a
+	a -> ab
+	ab -> abe
+	abe -> abej
+	abej -> abeja
+	abeja [shape=doublecircle]
+	a -> al
+	al -> alt
+	alt -> alto
+	alto [shape=doublecircle]
+	alt -> altr
+	altr -> altru
+	altru -> altrui
+	altrui -> altruis
+	altruis -> altruism
+	altruism -> altruismo
+	altruismo [shape=doublecircle]
+	"" -> t
+	t -> tr
+	tr -> tri
+	tri -> trie
+	trie [shape=doublecircle]
+	tr -> tra
+	tra -> trab
+	trab -> traba
+	traba -> trabaj
+	trabaj -> trabajo
+	trabajo [shape=doublecircle]
+	tra -> tras
+	tras -> trasc
+	trasc -> trasce
+	trasce -> trascen
+	trascen -> trascend
+	trascend -> trascende
+	trascende -> trascenden
+	trascenden -> trascendent
+	trascendent -> trascendente
+	trascendente [shape=doublecircle]
+}
